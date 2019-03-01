@@ -7,3 +7,5 @@ some edit
 second editttt
 
 third edit
+
+conflict line
